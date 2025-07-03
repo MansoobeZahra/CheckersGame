@@ -1,18 +1,24 @@
-# 🎮 Checkers Game in Java
+#  Checkers Game in Java
 
 A complete Java Swing-based Checkers (Draughts) game with sound effects, winning screen, splash screen, and a user-friendly GUI.
 
-## 📁 Project Structure
+##  Project Structure
 
-src/ ├── CheckersGUI.java ├── CheckerGame.java ├── CheckerPiece.java ├── SoundEffect.java ├── SplashFrame.java ├── WinningFrame.java └── GameRunner.java
-
+``` bash
+ ├── CheckersGUI.java
+ ├── CheckerGame.java
+ ├── CheckerPiece.java
+ ├── SoundEffect.java
+ ├── SplashFrame.java
+ ├── WinningFrame.java
+ └── GameRunner.java
 images/ soundeffects/
-
-## 🔧 Tools Used
+```
+##  Tools Used
 - Java (Swing GUI)
 - VS Code
 
-## 🔊 Features
+##  Features
 - Classic Checkers 8x8 board
 - Clickable moves with validation
 - Piece capturing
@@ -21,14 +27,14 @@ images/ soundeffects/
 - Victory screen with message and restart option
 - Sound effects on move, capture, win, etc.
 
-## 🧠 Discrete Math Concepts Used
+##   Concepts Used
 - **Graph Theory**: Board as a graph; moves as edges
 - **Combinatorics**: Possible game state combinations
 - **Game Theory**: Turn-based strategy and winning states
 - **Logic**: Move legality, win condition
 - **Set Theory**: Board piece state management
 
-## 🖼️ Screenshots
+##  Screenshots
 > Splashframe:
  
 ![image](https://github.com/user-attachments/assets/f32176f4-42ba-4224-8a60-7b52dbc0510b)
