@@ -2,6 +2,7 @@
 
 A complete Java Swing-based Checkers (Draughts) game with sound effects, winning screen, splash screen, and a user-friendly GUI.
 
+
 ##  Project Structure
 
 ``` bash
